@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadersalculate",
+        "uuid": 14895576,
+        "checksum": "tgkcqe"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
